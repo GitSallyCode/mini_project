@@ -3,7 +3,7 @@ def menu_list():
 
 def add_task(tasks):
     task = input("Enter a new task: ")
-    tasks.append (task)
+    tasks.append(task)
     print(f"Task {task} was added to the list")
 
 def menu():
