@@ -59,8 +59,7 @@ while True:
         break
     else:
         print("It's invalid.")
-print("Thank you. :)")
-print()
+print("Thank you!:)")
 
 
 
