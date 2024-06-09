@@ -60,7 +60,7 @@ while True:
     else:
         print("It's invalid.")
 print("Thank you. :)")
-
+print()
 
 
 
