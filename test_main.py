@@ -49,4 +49,4 @@ while True:
     else:
         print("Invalid input. Please enter a valid number.")
 
-print("Thank you! :)")
+print("Thank you!:)")
